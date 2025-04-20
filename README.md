@@ -36,42 +36,37 @@ I am currently doing a **Machine Learning Virtual Internship** at **Intern Intel
 
 ---
 
-### 🔁 TASK 3: Transfer Learning
-
-**Objective:** Use pre-trained models and fine-tune them for new tasks.
-
-- **Models:** ResNet, VGG, BERT, etc.
-- **Fine-Tuning:** Customizing to new datasets
-- **Tools:** Hugging Face, TensorFlow Hub, PyTorch Hub
-- **Comparison:** Baseline vs fine-tuned model performance
-
----
-
-### 🚨 TASK 4: Anomaly Detection
-
-**Objective:** Identify outliers or unusual patterns in data.
-
-- **Models:** Isolation Forest, One-Class SVM, Autoencoders
-- **Evaluation Metrics:** Precision, Recall, F1 Score
-- **Tools:** Scikit-Learn, TensorFlow, Google Colab
-
----
-
-### 🚀 TASK 5: End-to-End ML Pipeline
-
-**Objective:** Design and implement a complete machine learning pipeline.
-
-- **Steps:** Data ingestion → Feature engineering → Model training → Deployment → Monitoring
-- **Tools:** Apache Airflow, MLflow, AWS SageMaker
-- **Deployment:** APIs, production environment integration
-
----
-
 ## 🛠 Technologies & Tools
 
-- Python, Scikit-Learn, TensorFlow, PyTorch, Keras, Optuna  
-- Google Colab, Hugging Face, TensorFlow Hub, PyTorch Hub  
-- Apache Airflow, MLflow, AWS SageMaker
+### 🔧 For Task 1: Model Hyperparameter Tuning
+
+- **Programming Language:** Python  
+- **Libraries & Tools:**  
+  - Scikit-Learn  
+  - Optuna  
+  - XGBoost  
+  - RandomForestClassifier  
+- **Development Environment:**  
+  - Google Colab  
+  - Jupyter Notebook  
+
+### 🧠 For Task 2: Deep Learning Model Development
+
+- **Frameworks:**  
+  - TensorFlow  
+  - Keras  
+  - PyTorch  
+- **Libraries:**  
+  - NumPy  
+  - Pandas  
+  - Matplotlib  
+  - Seaborn  
+- **Pre-trained Model Hubs:**  
+  - TensorFlow Hub  
+  - PyTorch Hub  
+  - Hugging Face Transformers  
+- **Additional Tools (optional):**  
+  - Streamlit / Flask (for deployment)
 
 ---
 
