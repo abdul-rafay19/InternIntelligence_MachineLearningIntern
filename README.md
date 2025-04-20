@@ -38,35 +38,10 @@ I am currently doing a **Machine Learning Virtual Internship** at **Intern Intel
 
 ## 🛠 Technologies & Tools
 
-### 🔧 For Task 1: Model Hyperparameter Tuning
-
-- **Programming Language:** Python  
-- **Libraries & Tools:**  
-  - Scikit-Learn  
-  - Optuna  
-  - XGBoost  
-  - RandomForestClassifier  
-- **Development Environment:**  
-  - Google Colab  
-  - Jupyter Notebook  
-
-### 🧠 For Task 2: Deep Learning Model Development
-
-- **Frameworks:**  
-  - TensorFlow  
-  - Keras  
-  - PyTorch  
-- **Libraries:**  
-  - NumPy  
-  - Pandas  
-  - Matplotlib  
-  - Seaborn  
-- **Pre-trained Model Hubs:**  
-  - TensorFlow Hub  
-  - PyTorch Hub  
-  - Hugging Face Transformers  
-- **Additional Tools (optional):**  
-  - Streamlit / Flask (for deployment)
+- Python, Scikit-Learn, Optuna, XGBoost, RandomForestClassifier  
+- TensorFlow, Keras, PyTorch, NumPy, Pandas, Matplotlib, Seaborn  
+- Google Colab, Jupyter Notebook, Hugging Face, TensorFlow Hub, PyTorch Hub  
+- Streamlit, Flask (for deployment)
 
 ---
 
